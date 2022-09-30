@@ -46,5 +46,17 @@
         "rating": "4.2",
         "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fb.zmtcdn.com%2Fdata%2Freviews_photos%2F1bb%2Fac9e6ac005b9807010d46969127861bb_1539262175.jpg&imgrefurl=https%3A%2F%2Fwww.zomato.com%2Fpune%2Fs-kumar-wadewale-1-aundh&tbnid=KRk7bA9DTo9SuM&vet=12ahUKEwj85PL077z6AhVZm9gFHWB0DrUQMygAegUIARDLAQ..i&docid=_ImfDyjTg_rJrM&w=3024&h=3024&q=sk%20vada%20pav&client=avast-a-1&ved=2ahUKEwj85PL077z6AhVZm9gFHWB0DrUQMygAegUIARDLAQ",
         "location": "https://www.zomato.com/pune/s-kumar-wadewale-hadapsar"
+    }
+{
+        "id": 5,
+        "placeOfOrigin": "India",
+        "region": "Sangli",
+        "city": "Sangli",
+        "food" : "Katakirr",
+        "type": "bread and curry",
+        "foodEnergy": "290 cal",
+        "rating": "4.4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FSangli%2FKatakirr-Misal-Near-Neminath-Nagar-Neminath-Nagar%2F9999PX233-X233-200207183033-D5G5_BZDET&psig=AOvVaw0kk_JKxCiETZ9btwivxJ8C&ust=1664641066980000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjgt631vPoCFQAAAAAdAAAAABAD",
+        "location": "https://www.zomato.com/sangli/katakirr-misal-sangli-locality/order"
     },
 ]
